@@ -1,0 +1,2 @@
+INSERT INTO public."Payment" ("Order_ID","Staff_ID","Customer_ID","Ammount","Payment_Date") VALUES (1,1,1,45,'2021-01-11');
+INSERT INTO public."Payment" ("Order_ID","Staff_ID","Customer_ID","Ammount","Payment_Date") VALUES (2,2,2,35,'2021-01-11');

@@ -1,0 +1,16 @@
+INSERT INTO public."Category" ("Name") VALUES ('Action');
+INSERT INTO public."Category" ("Name") VALUES ('Animation');
+INSERT INTO public."Category" ("Name") VALUES ('Children');
+INSERT INTO public."Category" ("Name") VALUES ('Classics');
+INSERT INTO public."Category" ("Name") VALUES ('Comedy');
+INSERT INTO public."Category" ("Name") VALUES ('Documentary');
+INSERT INTO public."Category" ("Name") VALUES ('Drama');
+INSERT INTO public."Category" ("Name") VALUES ('Family');
+INSERT INTO public."Category" ("Name") VALUES ('Foreign');
+INSERT INTO public."Category" ("Name") VALUES ('Games');
+INSERT INTO public."Category" ("Name") VALUES ('Horror');
+INSERT INTO public."Category" ("Name") VALUES ('Music');
+INSERT INTO public."Category" ("Name") VALUES ('New');
+INSERT INTO public."Category" ("Name") VALUES ('Sci-Fi');
+INSERT INTO public."Category" ("Name") VALUES ('Sports');
+INSERT INTO public."Category" ("Name") VALUES ('Action');

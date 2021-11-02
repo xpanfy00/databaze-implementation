@@ -1,0 +1,10 @@
+INSERT INTO public."Actor" ("First_Name", "Last_Name") VALUES ('Sarah', 'Snook');
+INSERT INTO public."Actor" ("First_Name", "Last_Name") VALUES ('Kit', 'Harington');
+INSERT INTO public."Actor" ("First_Name", "Last_Name") VALUES ('Richard', 'Madden ');
+INSERT INTO public."Actor" ("First_Name", "Last_Name") VALUES ('Salma', 'Hayek');
+INSERT INTO public."Actor" ("First_Name", "Last_Name") VALUES ('Kumail', 'Nanjiani');
+INSERT INTO public."Actor" ("First_Name", "Last_Name") VALUES ('Angelina', 'Jolie');
+INSERT INTO public."Actor" ("First_Name", "Last_Name") VALUES ('Jennifer', 'Connelly');
+INSERT INTO public."Actor" ("First_Name", "Last_Name") VALUES ('Mark', 'Wahlberg');
+INSERT INTO public."Actor" ("First_Name", "Last_Name") VALUES ('Benedict', 'Cumberbatch');
+INSERT INTO public."Actor" ("First_Name", "Last_Name") VALUES ('Robert', 'Downey');

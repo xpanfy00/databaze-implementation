@@ -1,0 +1,12 @@
+INSERT INTO public."City" ("City") VALUES ('Praha');
+INSERT INTO public."City" ("City") VALUES ('Brno');
+INSERT INTO public."City" ("City") VALUES ('Ostrava');
+INSERT INTO public."City" ("City") VALUES ('Plzen');
+INSERT INTO public."City" ("City") VALUES ('Liberec');
+INSERT INTO public."City" ("City") VALUES ('Olomouc');
+INSERT INTO public."City" ("City") VALUES ('Budejovice');
+INSERT INTO public."City" ("City") VALUES ('Usti-nad-labem');
+INSERT INTO public."City" ("City") VALUES ('Gradec-Kralov');
+INSERT INTO public."City" ("City") VALUES ('Pardubice');
+INSERT INTO public."City" ("City") VALUES ('Zlin');
+INSERT INTO public."City" ("City") VALUES ('Opava');

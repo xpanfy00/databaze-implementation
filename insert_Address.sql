@@ -1,0 +1,12 @@
+INSERT INTO public."Address" ("City_ID", "Address", "Postal_Code", "Phone") VALUES (1, 'Vinohradska 89', 13000, 774285765 );
+INSERT INTO public."Address" ("City_ID", "Address", "Postal_Code", "Phone") VALUES (2, 'Dornych 4', 65800, 774365969  );
+INSERT INTO public."Address" ("City_ID", "Address", "Postal_Code", "Phone") VALUES (3, 'Foerstrova 31', 70900, 774365969 );
+INSERT INTO public."Address" ("City_ID", "Address", "Postal_Code", "Phone") VALUES (4, 'Bendova 23', 30100, 774235761 );
+INSERT INTO public."Address" ("City_ID", "Address", "Postal_Code", "Phone") VALUES (5, 'Husitska 216', 46007, 774265965 );
+INSERT INTO public."Address" ("City_ID", "Address", "Postal_Code", "Phone") VALUES (6, 'Sokolska 3', 77900, 774864985 );
+INSERT INTO public."Address" ("City_ID", "Address", "Postal_Code", "Phone") VALUES (7, 'Nova 1964', 37001, 774255263 );
+INSERT INTO public."Address" ("City_ID", "Address", "Postal_Code", "Phone") VALUES (8, 'Dlouha 12', 40001, 774225195 );
+INSERT INTO public."Address" ("City_ID", "Address", "Postal_Code", "Phone") VALUES (9, 'Skupova 8', 50003, 774262959 );
+INSERT INTO public."Address" ("City_ID", "Address", "Postal_Code", "Phone") VALUES (10, 'Gorkeho 350', 53002, 774267967 );
+INSERT INTO public."Address" ("City_ID", "Address", "Postal_Code", "Phone") VALUES (11, 'Sadova 2', 76001, 774261975 );
+INSERT INTO public."Address" ("City_ID", "Address", "Postal_Code", "Phone") VALUES (12, 'Holubi 2', 74601, 774285765 );

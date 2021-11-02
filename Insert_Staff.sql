@@ -1,0 +1,2 @@
+INSERT INTO  public."Staff" ("Address_ID", "Store_ID", "First_Name", "Last_Name", "User_Name", "Password") VALUES (1,1,'Mike','Stephens','Mike','8cb2237d0679ca88db6464eac60da96345513964');
+INSERT INTO  public."Staff" ("Address_ID", "Store_ID", "First_Name", "Last_Name", "User_Name", "Password") VALUES (2,2,'Jon','Hillyer','Jon','8cb2237d0679ca88db6464eac60da96345513964');
